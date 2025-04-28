@@ -1,0 +1,8 @@
+print("Hello world")
+Hello world
+
+print('hello world')
+hello world
+
+print(' "pyhton"')
+ "pyhton"
